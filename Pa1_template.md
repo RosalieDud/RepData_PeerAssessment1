@@ -2,7 +2,7 @@
 
 ### Data analysis from a personal activity monitory device
 
-
+> I added the plots in a different file in this repository
 
 Loading and preprocessing the data
 
